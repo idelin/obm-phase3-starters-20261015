@@ -1,0 +1,3 @@
+{"op": "init", "quota": 100000}
+{"op": "put", "key": "hello", "data": "6869", "if_version": 0}
+{"op": "get", "key": "hello", "version": null}

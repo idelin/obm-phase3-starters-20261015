@@ -1,0 +1,2 @@
+{"op": "init", "now": 0, "wallets": {"alice": 1000}, "merchants": ["shop", "other"], "ttl": 10}
+{"op": "authorize", "now": 0, "merchant": "shop", "token": "ta", "id": "p", "wallet": "alice", "amount": 600, "expires": 20}

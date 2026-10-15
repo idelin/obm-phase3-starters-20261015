@@ -1,0 +1,1 @@
+{"n": 3, "edges": [[0, 1], [1, 2]], "initial": [0, 1, 2], "gates": [[0, 2]], "committed": [[["swap", 0]]], "blocked": [[], []]}

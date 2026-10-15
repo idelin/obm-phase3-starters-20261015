@@ -1,0 +1,1 @@
+{"source": ["s0"], "target": ["t0", "t1"], "source_edges": [], "target_edges": [], "domains": {"s0": ["t1"]}, "reference": {"s0": "t0"}, "weights": {"s0": 1}, "budgets": [0, 3, 10, 24, 3], "min_correct": 0, "updates": [{"graph": "target", "edge": ["t0", "t1"], "present": true}]}
